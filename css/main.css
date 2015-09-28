@@ -1,0 +1,78 @@
+a, a:hover, a:visited {
+  text-decoration: none;
+  color: #2d93bc;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+html, body {
+  height: 100%;
+  overflow: hidden;
+}
+
+body {
+  background-color: #4DBCE9;
+  color: #333;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+}
+
+#page-content {
+  background: #fff;
+  box-shadow: 0 0 .5em #666;
+  height: 100%;
+  margin: 0 auto;
+  padding: 7em 1em;
+  width: 60%;
+}
+
+header {
+  text-align: center;
+  padding: 2em;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+hr {
+  background-color: #333;
+  border: 0;
+  color: #333;
+  height: .2em;
+  width: 60%;
+}
+
+#logo {
+  width: 150px;
+  margin: 0 auto;
+}
+
+#title {
+  font-size: 3em;
+}
+
+#subtitle {
+  font-size: 1.5em;
+  margin: 1em 0 0 0;
+}
+
+p {
+  margin: 1em;
+}
+
+.wrapper {
+  font-size: 1.5em;
+  line-height: 1.5em;
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+}
