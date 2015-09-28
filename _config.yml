@@ -2,7 +2,6 @@
 title: Kristen Graham
 email: kristen@kgraham.me
 description: >
-baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://kgraham.me" # the base hostname & protocol for your site
 
 # Build settings
