@@ -9,7 +9,6 @@ a:hover {
 
 html, body {
   height: 100%;
-  overflow: hidden;
 }
 
 body {
@@ -79,9 +78,6 @@ footer {
 }
 
 @media all and (max-width: 640px) {
-  html, body {
-    overflow: auto;
-  }
 
   body {
     background: #fff;
